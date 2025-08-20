@@ -23,7 +23,7 @@ A modern browser-based version of the classic **Dots and Boxes** strategy game w
 ---
 
 ## 🌐 PLAY NOW(LIVE):-
-👉 [Play Here](https://kiranbarik.github.io/dot-n-box/))  
+👉 [Play Here]((https://kirankum1r.github.io/dot-n-box/))  
 
 ---
 
